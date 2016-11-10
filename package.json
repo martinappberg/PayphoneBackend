@@ -1,0 +1,30 @@
+{
+  "name": "payphonebackend",
+  "version": "1.0.0",
+  "description": "Making payments easier",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "content-disposition": "^0.5.1",
+    "express": "^4.14.0",
+    "stripe": "^4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinappberg/PayphoneBackend.git"
+  },
+  "keywords": [
+    "payphone",
+    "payments"
+  ],
+  "author": "Martin Kjellberg, Appberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinappberg/PayphoneBackend/issues"
+  },
+  "homepage": "https://github.com/martinappberg/PayphoneBackend#readme"
+}
