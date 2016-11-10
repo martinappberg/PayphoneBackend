@@ -10,6 +10,9 @@
     "firebase-admin": "^4.0.1",
     "stripe": "^4.12.0"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,7 +26,7 @@
     "payments"
   ],
   "author": "Martin Kjellberg, Appberg",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/martinappberg/PayphoneBackend/issues"
   },
